@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+*.pyc
+*.exe
+server_files/
+test-output/
